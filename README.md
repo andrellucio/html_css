@@ -1,2 +1,2 @@
 # Estrutura completa de um site.
-# Uso de subpasta com imagens 
+Uso de subpasta com imagens 
