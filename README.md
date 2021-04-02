@@ -1,2 +1,2 @@
-# html_css
-# full
+# Estrutura completa de um site.
+# Uso de subpasta com imagens 
